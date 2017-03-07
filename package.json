@@ -1,0 +1,25 @@
+{
+  "name": "react-on-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pankajbadukale/react-on-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pankajbadukale/react-on-js/issues"
+  },
+  "homepage": "https://github.com/pankajbadukale/react-on-js#readme",
+  "devDependencies": {
+    "http-server": "^0.9.0"
+  },
+  "dependencies": {
+    "babel-preset-es2016": "^6.22.0"
+  }
+}
